@@ -1,0 +1,1 @@
+if ds_exists(global.DsGarbageList, ds_type_list) ds_list_destroy(global.DsGarbageList);
